@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HNGInternship</string>
+    <string name="enter_text_to_display">Enter text to display</string>
+    <string name="display_text">Display Text</string>
+    <string name="text">Text to Display</string>
+</resources>
